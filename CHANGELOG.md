@@ -4,6 +4,8 @@ All notable changes to the SCSKiller app and command line. Versions follow [Sema
 
 ## [Unreleased]
 
+## [0.1.3] - 2026-11-24
+
 **Fixed** (from upstream SCSKiller 1.4.9)
 
 - Windows, Linux: Steam games are no longer treated as anti-cheat games when the Steam client beta is installed.
